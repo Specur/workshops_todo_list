@@ -110,6 +110,11 @@ ul li{
   color: grey;
 }
 
+.deadline {
+  font-size: 60%;
+  color: red;
+}
+
 
 @media (max-width: 1000px) {
 
